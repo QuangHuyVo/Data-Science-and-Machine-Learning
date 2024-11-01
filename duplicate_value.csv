@@ -1,0 +1,458 @@
+userId,timestamp,review,item,rating,helpfulness,gender,category,item_id,item_price,user_city
+115,20700,Scream 3,Scream 3,3.0,4.0,M,Movies,61,32.0,2
+4411,21800,American Beauty,American Beauty,5.0,3.0,M,Movies,5,59.0,4
+4418,100500,Diablo 2,Diablo 2 - Bestseller Series for Windows,5.0,4.0,M,Games,21,52.51,15
+4432,120599,Sleepy Hollow,Sleepy Hollow,3.0,3.0,F,Movies,66,62.0,31
+4445,61900,The Sixth Sense,Sixth Sense,5.0,3.0,M,Movies,65,41.16,9
+4445,70800,Sleepy Hollow,Sleepy Hollow,4.0,3.0,M,Movies,66,62.0,9
+166,101101,What Lies Beneath,What Lies Beneath,4.0,4.0,M,Movies,85,145.0,24
+4531,12001,Flying the friendly skies - Priceline Style,Priceline Flight Reservations,5.0,3.0,M,Online Stores & Services,56,15.42,33
+4540,11500,Good Movie,Sleepy Hollow,4.0,0.0,F,Movies,66,62.0,4
+4550,51200,Two Thumbs Up!,Priceline Flight Reservations,5.0,4.0,M,Online Stores & Services,56,15.42,36
+4581,22400,Being John Malkovich,Being John Malkovich,4.0,0.0,M,Movies,11,52.0,19
+221,121100,American Ugly,American Beauty,5.0,0.0,F,Movies,5,59.0,14
+4645,21400,Hey Howdy Hey!!!,Toy Story 2,5.0,4.0,M,Movies,80,143.01,32
+4654,42000,An Original by arrogance,MyPoints.com,5.0,4.0,M,Online Stores & Services,43,72.0,24
+4654,42300,An Original by arrogance,FreeRide.com,5.0,4.0,M,Online Stores & Services,28,147.0,24
+260,61100,Absolutely Intriguing Film,Gladiator,5.0,0.0,M,Movies,30,65.17,36
+4731,110899,Being John Malkovich,Being John Malkovich,5.0,4.0,M,Movies,11,52.0,10
+4731,111399,Dogma,Dogma,5.0,4.0,M,Movies,22,87.59,10
+4731,112899,Toy Story 2,Toy Story 2,5.0,4.0,M,Movies,80,143.01,10
+4769,120399,You get what you pay for,Alta Vista (by 1stUp),1.0,0.0,F,Online Stores & Services,2,46.63,19
+4832,10801,Diablo 2,Diablo 2 - Bestseller Series for Windows,5.0,3.0,F,Games,21,52.51,13
+378,110999,Being John Malkovich,Being John Malkovich,5.0,4.0,F,Movies,11,52.0,24
+398,60700,Dogma,Dogma,5.0,0.0,F,Movies,22,87.59,9
+309,10700,A MUST SEE,Green Mile,5.0,0.0,M,Movies,33,140.0,31
+4945,20800,Scream 3,Scream 3,4.0,4.0,F,Movies,61,32.0,4
+5062,11400,Nothing Special in the Air,American Airlines,1.0,4.0,M,Hotels & Travel,4,61.0,35
+455,22600,The Blair Witch Project,Blair Witch Project,1.0,4.0,M,Movies,12,44.0,31
+472,62100,Better than the original,Diablo 2 - Bestseller Series for Windows,5.0,3.0,M,Games,21,52.51,28
+5198,90500,No Advantage,All Advantage,2.0,4.0,M,Online Stores & Services,1,23.08,33
+5328,40211,I feel used...,Quicken Loans,2.0,3.0,M,Personal Finance,57,36.0,39
+5274,122899,Deep Blue Sea,Deep Blue Sea,4.0,0.0,F,Movies,19,58.91,24
+548,13100,Deep Blue Sea,Deep Blue Sea,3.0,4.0,M,Movies,19,58.91,23
+5402,62701,Toy Story 2,Toy Story 2,3.0,3.0,M,Movies,80,143.01,27
+333,41700,Don't Waste Your Money,Playtex Diaper Genie System,2.0,0.0,M,Kids & Family,55,12.0,32
+5419,122999,Galaxy Quest,Galaxy Quest,5.0,3.0,M,Movies,29,67.0,23
+5424,51400,The Spy Who Gagged Me,Austin Powers: The Spy Who Shagged Me,1.0,0.0,F,Movies,9,111.0,21
+569,11600,The Sixth Sense,Sixth Sense,5.0,4.0,F,Movies,65,41.16,36
+574,111299,Great Movie,Matrix,5.0,4.0,F,Movies,40,24.51,13
+592,80500,X-cellent,X-Men,5.0,4.0,F,Movies,86,66.39,6
+5535,30500,AOL,AOL (America Online),4.0,0.0,M,Online Stores & Services,0,145.84,2
+5493,72902,"Crouching Blu, Hidden Marmalade","Crouching Tiger, Hidden Dragon",5.0,0.0,M,Movies,18,117.0,3
+5544,11600,Galaxy Quest,Galaxy Quest,4.0,3.0,M,Movies,29,67.0,23
+5596,120999,Never again,Northwest Airlines,2.0,4.0,F,Hotels & Travel,48,82.0,14
+5609,20600,The Best,"Simpsons, The",4.0,0.0,F,Kids & Family,64,40.0,8
+5613,12500,Final Fantasy VIII,Final Fantasy VIII for PlayStation 1,5.0,4.0,F,Games,27,136.05,7
+5613,12600,Great Movie,Sixth Sense,5.0,0.0,F,Movies,65,41.16,7
+5621,111001,Shrek,Shrek,5.0,4.0,F,Movies,63,75.14,8
+626,11000,Toy Story 2,Toy Story 2,5.0,3.0,M,Movies,80,143.01,15
+626,11000,Sleepy Hollow,Sleepy Hollow,4.0,3.0,M,Movies,66,62.0,15
+639,92004,Being John Malkovich,Being John Malkovich,4.0,4.0,M,Movies,11,52.0,3
+640,22406,Fantastic!,NetFlix,5.0,0.0,M,Online Stores & Services,45,94.54,22
+5694,81401,Delta Airlines,Delta Air Lines,2.0,3.0,F,Hotels & Travel,20,116.0,2
+5703,120399,Austin Powers Does it Again,Austin Powers: The Spy Who Shagged Me,4.0,3.0,M,Movies,9,111.0,34
+5702,102904,brad's Experience,FreeRide.com,1.0,4.0,M,Online Stores & Services,28,147.0,38
+5710,102300,Still the best,Southwest Airlines,5.0,0.0,F,Hotels & Travel,69,108.69,23
+5717,40611,Quicken Loans,Quicken Loans,2.0,3.0,F,Personal Finance,57,36.0,24
+5719,82402,Not all it's cracked up to be,Playtex Diaper Genie System,2.0,3.0,M,Kids & Family,55,12.0,9
+658,21300,A Must See,Green Mile,5.0,4.0,F,Movies,33,140.0,24
+5747,11900,great movie,American Pie,5.0,4.0,M,Movies,6,117.89,36
+5752,62100,American Beauty?,American Beauty,4.0,0.0,F,Movies,5,59.0,36
+5761,111702,I love Southwest!,Southwest Airlines,5.0,0.0,M,Hotels & Travel,69,108.69,31
+5817,40400,Amazing,J. K. Rowling - Harry Potter and the Sorcerer's Stone,5.0,3.0,F,Books,36,96.0,16
+684,40300,The Sixth Sense,Sixth Sense,4.0,3.0,F,Movies,65,41.16,6
+5826,122999,Galaxy Quest,Galaxy Quest,4.0,4.0,M,Movies,29,67.0,13
+697,60700,Excellent Movie,Sixth Sense,4.0,3.0,F,Movies,65,41.16,29
+5853,40100,The Best,Alta Vista (by 1stUp),5.0,3.0,M,Online Stores & Services,2,46.63,7
+5916,71200,McDonalds,McDonald's,1.0,3.0,M,Restaurants & Gourmet,41,30.74,29
+715,121899,Wow!,American Beauty,5.0,0.0,M,Movies,5,59.0,9
+727,100399,By far the best,Road Runner (includes MediaOne),5.0,4.0,M,Online Stores & Services,58,135.59,30
+6000,72200,Great Movie,American Beauty,4.0,3.0,F,Movies,5,59.0,9
+6027,11300,Finally,The Legend Of Zelda Ocarina Of Time for Nintendo 64,5.0,4.0,F,Games,77,59.0,5
+804,120199,Sleepy Hollow,Sleepy Hollow,5.0,0.0,F,Movies,66,62.0,27
+6087,41000,I love it!,Alta Vista (by 1stUp),4.0,3.0,M,Online Stores & Services,2,46.63,9
+6107,41505,The Simpsons,"Simpsons, The",5.0,2.0,M,Kids & Family,64,40.0,7
+828,80301,A Mixed Bag,Subway,4.0,0.0,M,Restaurants & Gourmet,73,48.0,28
+6156,10202,Fantastic!,Unbreakable,5.0,0.0,F,Movies,82,51.13,32
+6176,20200,Southwest Airlines,Southwest Airlines,5.0,4.0,F,Hotels & Travel,69,108.69,0
+6197,52901,Great Movie,Shrek,5.0,3.0,F,Movies,63,75.14,12
+6214,70200,Hilarious,Austin Powers: The Spy Who Shagged Me,5.0,3.0,F,Movies,9,111.0,28
+6214,70200,One of my favorites,American Pie,5.0,4.0,F,Movies,6,117.89,28
+6265,42610,Quicken Loans Experience,Quicken Loans,5.0,1.0,M,Personal Finance,57,36.0,17
+6275,21608,Quicken Loans,Quicken Loans,1.0,3.0,M,Personal Finance,57,36.0,27
+6279,61000,Galaxy Quest,Galaxy Quest,4.0,0.0,F,Movies,29,67.0,6
+6295,101699,Not too bad,Earthlink,3.0,0.0,M,Online Stores & Services,23,68.0,5
+6328,72301,Toy Story 2,Toy Story 2,5.0,3.0,F,Movies,80,143.01,28
+6357,20300,Waste of Time,StartSampling.Com,1.0,0.0,F,Online Stores & Services,72,49.0,28
+6407,12601,Gladiator,Gladiator,5.0,0.0,F,Movies,30,65.17,26
+928,13000,The Matrix,Matrix,5.0,0.0,M,Movies,40,24.51,13
+931,91600,Final Fantasy VIII,Final Fantasy VIII for PlayStation 1,4.0,3.0,M,Games,27,136.05,31
+6435,11702,Great Game,The Legend Of Zelda Ocarina Of Time for Nintendo 64,5.0,0.0,M,Games,77,59.0,36
+941,20300,Sleepy Hollow,Sleepy Hollow,5.0,3.0,F,Movies,66,62.0,26
+6443,71700,X-cellent,X-Men,4.0,0.0,M,Movies,86,66.39,29
+6450,12800,Don't Waste Your Time,Treeloot.com,1.0,0.0,M,Online Stores & Services,81,94.83,36
+961,10601,Don't waste your time!,Treeloot.com,1.0,4.0,M,Online Stores & Services,81,94.83,33
+6567,61604,Wendy's,Wendy's,5.0,3.0,F,Restaurants & Gourmet,84,69.0,17
+1005,121299,It's thinking,Sega Dreamcast Grey Console,5.0,3.0,M,Games,62,62.0,2
+6589,70606,Final Fantasy VIII,Final Fantasy VIII for PlayStation 1,5.0,4.0,M,Games,27,136.05,20
+1020,71700,American Beauty,American Beauty,4.0,0.0,F,Movies,5,59.0,37
+1020,71700,Fight Club,Fight Club,1.0,3.0,F,Movies,26,97.53,37
+1020,72300,Dogma,Dogma,4.0,4.0,F,Movies,22,87.59,37
+6617,52901,Pearl Harbor,Pearl Harbor,5.0,0.0,M,Movies,53,141.75,31
+996,12000,Sleepy Hollow,Sleepy Hollow,2.0,0.0,F,Movies,66,62.0,23
+1026,21601,Funny Movie,Scary Movie,5.0,4.0,M,Movies,60,53.0,2
+6634,11600,Toy Story 2,Toy Story 2,4.0,3.0,F,Movies,80,143.01,13
+1043,121499,The Green Mile,Green Mile,5.0,0.0,M,Movies,33,140.0,28
+6672,121501,I've been playing for how long???,The Sims 2: Open for Business for Windows,5.0,0.0,F,Games,79,27.0,3
+770,22800,Deep Blue Sea,Deep Blue Sea,4.0,4.0,F,Movies,19,58.91,27
+770,52400,McDonald's,McDonald's,2.0,3.0,F,Restaurants & Gourmet,41,30.74,27
+770,52700,Wendy's,Wendy's,5.0,0.0,F,Restaurants & Gourmet,84,69.0,27
+770,110599,The Matrix,Matrix,5.0,4.0,F,Movies,40,24.51,27
+6673,40800,Great Movie,Erin Brockovich,5.0,4.0,M,Movies,24,129.9,9
+6673,42600,Great Movie,American Beauty,5.0,4.0,M,Movies,5,59.0,9
+6695,10200,Easy money,FreeRide.com,4.0,0.0,F,Online Stores & Services,28,147.0,33
+6719,42000,Great Movie,Sixth Sense,5.0,0.0,M,Movies,65,41.16,30
+6759,10301,The Matrix,Matrix,4.0,3.0,M,Movies,40,24.51,9
+777,112700,Too Much Trouble,NetZero,1.0,0.0,M,Online Stores & Services,46,53.0,39
+778,12500,Why do I stay?,AOL (America Online),3.0,4.0,F,Online Stores & Services,0,145.84,3
+778,111501,Too cheap not to use,Priceline Flight Reservations,5.0,0.0,F,Online Stores & Services,56,15.42,3
+6799,42400,Great Movie,American Beauty,5.0,0.0,M,Movies,5,59.0,14
+6803,62700,Dogma,Dogma,4.0,4.0,M,Movies,22,87.59,25
+6803,62900,The Patriot,Patriot,5.0,4.0,M,Movies,51,73.65,25
+6803,71400,Scary Movie,Scary Movie,3.0,0.0,M,Movies,60,53.0,25
+6809,30801,Collector's Paradise,eBay,5.0,0.0,M,Online Stores & Services,88,149.0,6
+1073,11100,Southwest Airlines,Southwest Airlines,5.0,0.0,F,Hotels & Travel,69,108.69,1
+1073,11100,Delta Airlines,Delta Air Lines,3.0,4.0,F,Hotels & Travel,20,116.0,1
+6813,71500,Finally!,X-Men,5.0,4.0,M,Movies,86,66.39,16
+1080,41501,WOW!,The Sims 2: Open for Business for Windows,5.0,0.0,M,Games,79,27.0,34
+6835,12600,The Green Mile,Green Mile,4.0,0.0,M,Movies,33,140.0,22
+1085,121700,No Advantage Here,All Advantage,2.0,0.0,M,Online Stores & Services,1,23.08,36
+1097,10200,Toy Story 2,Toy Story 2,5.0,4.0,M,Movies,80,143.01,0
+6894,30600,The Matrix,Matrix,5.0,4.0,F,Movies,40,24.51,7
+6894,71400,It's About Time,X-Men,5.0,0.0,F,Movies,86,66.39,7
+1102,63000,Simpsons,"Simpsons, The",4.0,3.0,M,Kids & Family,64,40.0,27
+1115,63000,Beep Beep!,Road Runner (includes MediaOne),5.0,4.0,M,Online Stores & Services,58,135.59,20
+1130,11400,"Bond, James Bond",Golden Eye 007 for Nintendo 64,5.0,4.0,M,Games,31,83.48,39
+1132,82300,Wendy's,Wendy's,5.0,0.0,F,Restaurants & Gourmet,84,69.0,16
+6989,12400,Southwest #1,Southwest Airlines,5.0,4.0,M,Hotels & Travel,69,108.69,32
+1147,51300,Mixed Emotions,Gladiator,4.0,4.0,M,Movies,30,65.17,12
+1137,11800,The Best Game Ever,Final Fantasy VIII for PlayStation 1,5.0,3.0,F,Games,27,136.05,6
+7047,11100,The Green Mile,Green Mile,5.0,4.0,F,Movies,33,140.0,13
+7047,11100,Any Given Sunday,Any Given Sunday,4.0,4.0,F,Movies,7,135.0,13
+7047,20900,Scream 3,Scream 3,4.0,4.0,F,Movies,61,32.0,13
+7047,32300,Erin Brockovich,Erin Brockovich,5.0,0.0,F,Movies,24,129.9,13
+1155,62000,A Masterpiece,Gladiator,4.0,0.0,M,Movies,30,65.17,25
+7056,42600,My Only Bank Now,X.com,5.0,0.0,F,Personal Finance,87,93.55,1
+7082,31400,The Simpson,FOX,5.0,3.0,F,Media,25,80.0,3
+1164,21500,Easy to use,Playtex Diaper Genie System,5.0,0.0,M,Kids & Family,55,12.0,2
+7123,122299,Teletubbies,Teletubbies,1.0,4.0,M,Kids & Family,76,48.25,0
+7134,22011,Home Refinance,Quicken Loans,4.0,1.0,M,Personal Finance,57,36.0,16
+7146,50300,American Beauty,American Beauty,5.0,0.0,F,Movies,5,59.0,15
+7146,70400,The Perfect Storm,Perfect Storm,5.0,0.0,F,Movies,54,129.87,15
+7180,12700,The Green Mile,Green Mile,4.0,0.0,F,Movies,33,140.0,34
+7180,51100,Good Movie,Sixth Sense,4.0,3.0,F,Movies,65,41.16,34
+7180,60100,Dogma,Dogma,4.0,4.0,F,Movies,22,87.59,34
+1182,71600,X-Men,X-Men,4.0,4.0,F,Movies,86,66.39,17
+7235,22500,Scream 3 ,Scream 3,5.0,4.0,F,Movies,61,32.0,22
+7242,60302,Good,Gladiator,4.0,3.0,F,Movies,30,65.17,27
+1268,70600,The Sims,The Sims 2: Open for Business for Windows,5.0,3.0,F,Games,79,27.0,34
+7306,72100,You get what you pay for,Southwest Airlines,4.0,3.0,M,Hotels & Travel,69,108.69,29
+1301,10801,"Crouching Tiger, Hidden Dragon","Crouching Tiger, Hidden Dragon",5.0,3.0,F,Movies,18,117.0,28
+1308,123099,Yeah Baby Yeah,Austin Powers: The Spy Who Shagged Me,5.0,0.0,M,Movies,9,111.0,17
+7342,62200,Great movie!,Toy Story 2,5.0,3.0,F,Movies,80,143.01,2
+7356,102100,There is no spoon,Matrix,5.0,0.0,M,Movies,40,24.51,36
+7398,41700,The Matrix,Matrix,2.0,0.0,F,Movies,40,24.51,1
+7400,11500,Wonderful,MyPoints.com,5.0,3.0,M,Online Stores & Services,43,72.0,28
+1270,12300,Great Movie,Any Given Sunday,5.0,0.0,F,Movies,7,135.0,22
+7429,20900,The Talented Mr. Damon,Talented Mr. Ripley,3.0,1.0,F,Movies,75,89.0,18
+7440,12900,Mixed feelings,Road Runner (includes MediaOne),4.0,4.0,M,Online Stores & Services,58,135.59,9
+7451,70700,Money for nothing!,All Advantage,5.0,0.0,M,Online Stores & Services,1,23.08,2
+1359,100801,"Crouching Tiger, Hidden Dragon","Crouching Tiger, Hidden Dragon",4.0,4.0,M,Movies,18,117.0,23
+1359,112700,Toy Story 2,Toy Story 2,5.0,4.0,M,Movies,80,143.01,23
+7454,12000,Circus Circus,Las Vegas,5.0,4.0,M,Hotels & Travel,37,35.31,15
+7437,112900,Is it worth it?,Sony PlayStation 2 Slimline Console,3.0,0.0,M,Games,67,71.52,6
+7462,11610,Quicken Loans Review,Quicken Loans,5.0,3.0,F,Personal Finance,57,36.0,39
+7487,72204,Amazing,Amazon.com,5.0,2.0,F,Online Stores & Services,3,129.82,8
+7486,111399,AOHell,AOL (America Online),1.0,4.0,F,Online Stores & Services,0,145.84,6
+7508,52500,You get what you pay for,NetZero,2.0,0.0,F,Online Stores & Services,46,53.0,35
+7509,122799,Any Given Sunday,Any Given Sunday,4.0,4.0,F,Movies,7,135.0,11
+7544,10703,Don't Believe the Hype,Olive Garden,3.0,4.0,F,Restaurants & Gourmet,49,32.0,5
+1378,120799,Being John Malkovich,Being John Malkovich,4.0,4.0,F,Movies,11,52.0,34
+1393,100701,Cast Away,Cast Away,5.0,0.0,M,Movies,17,126.5,38
+1393,101000,Julia does it again,Erin Brockovich,5.0,0.0,M,Movies,24,129.9,38
+1407,12600,What Happened?,Spedia,2.0,0.0,M,Online Stores & Services,70,58.32,31
+7569,111800,How the Grinch Stole My Money,How the Grinch Stole Christmas,2.0,0.0,F,Movies,34,65.0,13
+7609,60200,Really Great,StartSampling.Com,4.0,4.0,F,Online Stores & Services,72,49.0,6
+7609,93000,You Get What You Pay For,Alta Vista (by 1stUp),2.0,0.0,F,Online Stores & Services,2,46.63,6
+7633,122899,Matrix,Matrix,4.0,0.0,M,Movies,40,24.51,4
+7635,102000,Don't Waste Your Time,All Advantage,2.0,0.0,F,Online Stores & Services,1,23.08,8
+7640,41800,Riveting,Sixth Sense,4.0,0.0,M,Movies,65,41.16,4
+7646,70800,Ebay,eBay,4.0,0.0,F,Online Stores & Services,88,149.0,8
+7651,52601,YEAH BABY!,Shrek,5.0,4.0,F,Movies,63,75.14,18
+7651,52701,Pearl Harbor,Pearl Harbor,3.0,4.0,F,Movies,53,141.75,18
+7661,42701,The Sims,The Sims 2: Open for Business for Windows,3.0,3.0,M,Games,79,27.0,33
+1437,10900,A Pleasant Surprise,Matrix,5.0,4.0,F,Movies,40,24.51,33
+7691,121210,Quicken Loans Review,Quicken Loans,4.0,3.0,M,Personal Finance,57,36.0,13
+7722,102699,Which witch?,Blair Witch Project,1.0,4.0,M,Movies,12,44.0,21
+7723,10501,a must see,Cast Away,5.0,0.0,F,Movies,17,126.5,39
+7725,90700,Great idea,NetFlix,5.0,0.0,M,Online Stores & Services,45,94.54,3
+7743,91800,Great Service,Northwest Airlines,4.0,0.0,M,Hotels & Travel,48,82.0,20
+7745,30500,Beautiful,American Beauty,4.0,4.0,M,Movies,5,59.0,12
+7756,12600,Easy Money,All Advantage,4.0,0.0,F,Online Stores & Services,1,23.08,27
+7768,12300,One of my Favorites,MyPoints.com,5.0,0.0,F,Online Stores & Services,43,72.0,37
+7768,12300,The Best,FreeRide.com,5.0,4.0,F,Online Stores & Services,28,147.0,37
+7797,61101,Shrek!,Shrek,5.0,0.0,F,Movies,63,75.14,20
+7829,121200,The Grinch,How the Grinch Stole Christmas,5.0,3.0,F,Movies,34,65.0,22
+7852,120799,Blair Witch Project,Blair Witch Project,1.0,4.0,M,Movies,12,44.0,26
+7870,113099,Sleepy Hollow,Sleepy Hollow,3.0,0.0,M,Movies,66,62.0,18
+7882,20101,Matrix,Matrix,3.0,4.0,M,Movies,40,24.51,25
+7882,21101,Breaking Unbreakable,Unbreakable,2.0,0.0,M,Movies,82,51.13,25
+7885,12800,Funny Movie,Austin Powers: The Spy Who Shagged Me,4.0,3.0,M,Movies,9,111.0,21
+7891,51100,Gladiator,Gladiator,5.0,0.0,F,Movies,30,65.17,0
+7911,121799,The Sixth Sense,Sixth Sense,5.0,4.0,M,Movies,65,41.16,13
+7912,52100,Best Game Ever,The Legend Of Zelda Ocarina Of Time for Nintendo 64,5.0,0.0,F,Games,77,59.0,37
+1240,120999,Toy Story 2,Toy Story 2,5.0,3.0,F,Movies,80,143.01,11
+7940,10700,american pie,American Pie,5.0,4.0,F,Movies,6,117.89,35
+7950,11510,Quicken Loans Refinance,Quicken Loans,4.0,3.0,F,Personal Finance,57,36.0,9
+7956,22801,Burger King,Burger King,5.0,3.0,M,Restaurants & Gourmet,16,49.0,29
+7974,11200,American Pie,American Pie,5.0,4.0,M,Movies,6,117.89,34
+7996,71499,Harry Potter,J. K. Rowling - Harry Potter and the Sorcerer's Stone,5.0,4.0,M,Books,36,96.0,30
+8001,40300,The Sixth Sense,Sixth Sense,5.0,0.0,F,Movies,65,41.16,3
+8015,33000,The Sixth Sense,Sixth Sense,5.0,3.0,F,Movies,65,41.16,22
+8022,122599,Any Given Sunday,Any Given Sunday,4.0,0.0,M,Movies,7,135.0,8
+8054,12000,Excellent,MyPoints.com,5.0,0.0,F,Online Stores & Services,43,72.0,8
+8054,22100,Fun for the whole family!,Las Vegas,5.0,4.0,F,Hotels & Travel,37,35.31,8
+8062,101700,X-Men,X-Men,4.0,3.0,F,Movies,86,66.39,11
+8109,73103,FANTASTIC,American Airlines,5.0,3.0,M,Hotels & Travel,4,61.0,38
+8139,120299,Final Fantasy VIII,Final Fantasy VIII for PlayStation 1,5.0,4.0,M,Games,27,136.05,23
+8139,121099,AOL,AOL (America Online),2.0,4.0,M,Online Stores & Services,0,145.84,23
+1578,31500,Money for nothing?,All Advantage,3.0,0.0,F,Online Stores & Services,1,23.08,29
+1581,110800,Rollercoaster tycoon,Roller Coaster Tycoon For Windows,4.0,3.0,M,Games,59,90.83,19
+1582,72000,Best Yet!,Final Fantasy VIII for PlayStation 1,5.0,0.0,F,Games,27,136.05,36
+8190,102500,What a disappointment,AOL (America Online),2.0,4.0,M,Online Stores & Services,0,145.84,26
+8203,12100,NorthWORST,Northwest Airlines,1.0,4.0,F,Hotels & Travel,48,82.0,9
+8131,112810,Quicken Loans,Quicken Loans,5.0,3.0,M,Personal Finance,57,36.0,8
+8275,12500,toy story 2,Toy Story 2,5.0,3.0,M,Movies,80,143.01,5
+1598,120399,Sleepy Hollow,Sleepy Hollow,4.0,0.0,F,Movies,66,62.0,12
+1599,30400,Don't Believe the Hype,Blair Witch Project,1.0,4.0,M,Movies,12,44.0,4
+1609,80901,Pearl Harbor,Pearl Harbor,5.0,0.0,M,Movies,53,141.75,2
+1614,100701,I love Amazon,Amazon.com,5.0,0.0,M,Online Stores & Services,3,129.82,34
+1616,61400,Best Movie of 1999,American Beauty,5.0,3.0,F,Movies,5,59.0,32
+1203,60300,The Sims,The Sims 2: Open for Business for Windows,5.0,3.0,M,Games,79,27.0,39
+8343,11000,Don't believe the hype,Talented Mr. Ripley,2.0,4.0,F,Movies,75,89.0,16
+8348,60400,I Love It!,AOL (America Online),5.0,0.0,M,Online Stores & Services,0,145.84,18
+8352,61909,Quicken Loans Refinance,Quicken Loans,5.0,3.0,F,Personal Finance,57,36.0,27
+1654,71500,X-cellent,X-Men,5.0,4.0,M,Movies,86,66.39,38
+8436,30601,Harry Potter....Wonderful for all ages!,J. K. Rowling - Harry Potter and the Sorcerer's Stone,5.0,3.0,M,Books,36,96.0,28
+8438,31600,AOL,AOL (America Online),4.0,0.0,M,Online Stores & Services,0,145.84,6
+8458,30611,Refinance with Quicken Loans,Quicken Loans,4.0,3.0,F,Personal Finance,57,36.0,6
+8472,41105,The Good and the Bad,Northwest Airlines,3.0,0.0,F,Hotels & Travel,48,82.0,21
+8521,41900,WOW!!!,Sixth Sense,5.0,3.0,M,Movies,65,41.16,12
+1684,12800,Free Samples,StartSampling.Com,4.0,0.0,M,Online Stores & Services,72,49.0,29
+8563,50500,The Sixth Sense,Sixth Sense,5.0,0.0,F,Movies,65,41.16,34
+8570,12100,Shagadelic,Austin Powers: The Spy Who Shagged Me,3.0,4.0,F,Movies,9,111.0,6
+1698,32100,Erin Brockovich,Erin Brockovich,4.0,0.0,F,Movies,24,129.9,3
+1698,32100,Any Given Sunday,Any Given Sunday,2.0,4.0,F,Movies,7,135.0,3
+1698,32100,American Beauty,American Beauty,5.0,4.0,F,Movies,5,59.0,3
+1698,71500,The Perfect Storm,Perfect Storm,3.0,0.0,F,Movies,54,129.87,3
+1698,71500,Scream 3,Scream 3,3.0,0.0,F,Movies,61,32.0,3
+1706,10501,Perfect Storm of Tears,Perfect Storm,3.0,1.0,F,Movies,54,129.87,8
+1709,51500,The Blair Witch Project,Blair Witch Project,5.0,0.0,F,Movies,12,44.0,7
+8618,93000,You get what you pay for,American Airlines,2.0,4.0,M,Hotels & Travel,4,61.0,33
+8626,100600,American Beauty,American Beauty,4.0,3.0,F,Movies,5,59.0,28
+1717,52900,Mission Possible,Mission: Impossible II,3.0,0.0,F,Movies,42,144.28,19
+1725,40301,"Crouching Tiger, Hidden Dragon","Crouching Tiger, Hidden Dragon",4.0,3.0,F,Movies,18,117.0,7
+8680,71800,Scream 3,Scream 3,2.0,3.0,M,Movies,61,32.0,39
+1739,72100,great movie,Sixth Sense,5.0,3.0,F,Movies,65,41.16,26
+8703,52801,Pearl Harbor,Pearl Harbor,4.0,4.0,F,Movies,53,141.75,9
+8712,71601,Doh!,"Simpsons, The",5.0,0.0,F,Kids & Family,64,40.0,30
+1742,22300,Scream 3,Scream 3,3.0,4.0,M,Movies,61,32.0,7
+1743,50900,Gladiator,Gladiator,3.0,4.0,F,Movies,30,65.17,38
+8735,70700,It's not all that,Talented Mr. Ripley,3.0,0.0,F,Movies,75,89.0,30
+8736,61309,Quicken Loans Experience,Quicken Loans,5.0,0.0,F,Personal Finance,57,36.0,24
+1754,110200,Good for Free,BlueLight.com,4.0,0.0,M,Online Stores & Services,15,52.0,24
+8783,60601,Scary Movie,Scary Movie,3.0,3.0,M,Movies,60,53.0,32
+8785,70700,The Perfect Bore,Perfect Storm,2.0,4.0,M,Movies,54,129.87,5
+8810,41400,Wow,American Beauty,5.0,3.0,F,Movies,5,59.0,12
+8335,22100,Sleepy Hollow,Sleepy Hollow,5.0,3.0,F,Movies,66,62.0,8
+8335,121199,The Blair Witch Project,Blair Witch Project,5.0,1.0,F,Movies,12,44.0,8
+8847,31600,The Simpsons,FOX,2.0,4.0,M,Media,25,80.0,18
+8864,81103,Funny. A little too funny....,Shrek,4.0,3.0,M,Movies,63,75.14,21
+8884,11600,The Simpsons,"Simpsons, The",5.0,0.0,F,Kids & Family,64,40.0,0
+8897,20600,Scream 3 (2000),Scream 3,2.0,4.0,F,Movies,61,32.0,12
+8912,32800,Sleepy Hollow,Sleepy Hollow,5.0,0.0,M,Movies,66,62.0,6
+8918,70700,Reliable,Earthlink,4.0,0.0,M,Online Stores & Services,23,68.0,4
+8933,51800,Awesome!,The Legend Of Zelda Ocarina Of Time for Nintendo 64,5.0,0.0,F,Games,77,59.0,1
+8938,12601,American Air's Staff was friendly,American Airlines,3.0,3.0,M,Hotels & Travel,4,61.0,37
+8975,32207,Great game,Final Fantasy VIII for PlayStation 1,5.0,3.0,M,Games,27,136.05,36
+8982,11900,Simply The Best,"Simpsons, The",5.0,0.0,M,Kids & Family,64,40.0,8
+9002,51100,What Happened?,McDonald's,1.0,0.0,M,Restaurants & Gourmet,41,30.74,28
+9024,72303,Great game,Roller Coaster Tycoon For Windows,5.0,3.0,M,Games,59,90.83,26
+9045,30100,Terrible,Spedia,1.0,4.0,M,Online Stores & Services,70,58.32,16
+9056,22201,Great Movie,Gladiator,5.0,4.0,M,Movies,30,65.17,9
+1794,31200,Taking advantage was a bad thing...before this,All Advantage,5.0,4.0,F,Online Stores & Services,1,23.08,3
+9060,32211,Quicken Loans Review,Quicken Loans,5.0,3.0,F,Personal Finance,57,36.0,33
+9074,92200,The Best!,Blue Mountain Arts eCards,5.0,4.0,M,Online Stores & Services,13,91.29,0
+9080,122699,Don't Waste Your Money,AOL (America Online),2.0,4.0,M,Online Stores & Services,0,145.84,35
+9085,91900,WOW!,American Beauty,5.0,4.0,F,Movies,5,59.0,36
+9086,30700,The Sims,The Sims 2: Open for Business for Windows,4.0,0.0,M,Games,79,27.0,23
+9092,22701,I am Jack's Film Critic,Fight Club,5.0,4.0,F,Movies,26,97.53,34
+1795,41400,Unbelievable,Blair Witch Project,2.0,4.0,F,Movies,12,44.0,5
+9150,100100,Great,Golden Eye 007 for Nintendo 64,4.0,0.0,M,Games,31,83.48,4
+9190,21000,Tell someone you care,Blue Mountain Arts eCards,5.0,0.0,M,Online Stores & Services,13,91.29,11
+9215,40200,Wow,American Beauty,5.0,0.0,F,Movies,5,59.0,32
+9228,82301,Wow,"South Park: Bigger, Longer & Uncut",5.0,3.0,F,Movies,68,143.11,2
+9231,71102,The Sims,The Sims 2: Open for Business for Windows,5.0,3.0,F,Games,79,27.0,4
+9246,10502,Amazon is a hit,Amazon.com,4.0,0.0,F,Online Stores & Services,3,129.82,9
+1943,30800,Not what I expected,Playtex Diaper Genie System,1.0,0.0,F,Kids & Family,55,12.0,0
+9271,51600,Great Movie!,Gladiator,5.0,3.0,M,Movies,30,65.17,27
+9313,71601,Funny Scary Movie,Scary Movie,5.0,0.0,M,Movies,60,53.0,5
+9315,120899,Better than the Original,Toy Story 2,5.0,1.0,M,Movies,80,143.01,8
+9347,100900,Get Paid to Surf,FreeRide.com,5.0,0.0,F,Online Stores & Services,28,147.0,5
+9352,50600,Great for all ages,J. K. Rowling - Harry Potter and the Sorcerer's Stone,5.0,3.0,M,Books,36,96.0,28
+9354,121900,The Perfect Storm,Perfect Storm,3.0,4.0,F,Movies,54,129.87,16
+1972,121700,The Imperfect Storm,Perfect Storm,3.0,0.0,M,Movies,54,129.87,36
+9361,10101,Green Mile,Green Mile,4.0,4.0,F,Movies,33,140.0,2
+9361,12701,American Beauty,American Beauty,5.0,0.0,F,Movies,5,59.0,2
+9361,123100,Toy Story 2,Toy Story 2,5.0,0.0,F,Movies,80,143.01,2
+9365,80308,Spectacular!,Outback Steakhouse,5.0,3.0,F,Restaurants & Gourmet,50,25.0,4
+1984,40300,The Sixth Sense (1999),Sixth Sense,4.0,4.0,M,Movies,65,41.16,5
+9392,30901,A must see...,Cast Away,5.0,0.0,M,Movies,17,126.5,3
+9444,32201,The Matrix is awesome...,Matrix,5.0,3.0,F,Movies,40,24.51,0
+9479,10700,The Best Game Ever,Final Fantasy VIII for PlayStation 1,5.0,4.0,F,Games,27,136.05,18
+9496,80800,What a disappointment,Talented Mr. Ripley,2.0,3.0,M,Movies,75,89.0,12
+9510,10700,What is the Matrix?,Matrix,4.0,0.0,M,Movies,40,24.51,15
+9512,82600,Where's Gambit?,X-Men,4.0,4.0,M,Movies,86,66.39,10
+9515,13100,American Pie,American Pie,4.0,0.0,M,Movies,6,117.89,11
+2015,120200,The Grinch,How the Grinch Stole Christmas,4.0,3.0,F,Movies,34,65.0,4
+9576,80800,X-cellent,X-Men,5.0,3.0,F,Movies,86,66.39,16
+9591,100109,Quicken Loans,Quicken Loans,2.0,3.0,F,Personal Finance,57,36.0,27
+2038,111799,Dogma,Dogma,5.0,4.0,M,Movies,22,87.59,12
+9616,11700,What is the Matrix?,Matrix,4.0,4.0,F,Movies,40,24.51,28
+9653,73000,What Lies Beneath,What Lies Beneath,5.0,0.0,M,Movies,85,145.0,22
+2062,11200,Easy Money,All Advantage,5.0,4.0,M,Online Stores & Services,1,23.08,33
+2084,12200,Good Movie,Any Given Sunday,5.0,4.0,M,Movies,7,135.0,25
+2068,41500,Gladiator,Gladiator,4.0,4.0,M,Movies,30,65.17,27
+2092,91100,X-Men,X-Men,5.0,4.0,M,Movies,86,66.39,31
+9748,30200,American Beauty,American Beauty,5.0,4.0,F,Movies,5,59.0,10
+9748,40400,Erin Brockovich,Erin Brockovich,4.0,0.0,F,Movies,24,129.9,10
+9753,122299,Not just for kids!,J. K. Rowling - Harry Potter and the Sorcerer's Stone,5.0,4.0,F,Books,36,96.0,2
+9757,12600,Mixed feelings,Teletubbies,2.0,4.0,F,Kids & Family,76,48.25,4
+9775,121899,A must see movie,Green Mile,5.0,1.0,F,Movies,33,140.0,16
+2107,122899,Not just for kids!,Toy Story 2,5.0,4.0,M,Movies,80,143.01,27
+9813,12300,WOW,New York City,4.0,4.0,M,Hotels & Travel,47,136.0,1
+9831,90401,Flying High,J. K. Rowling - Harry Potter and the Sorcerer's Stone,5.0,3.0,F,Books,36,96.0,26
+9833,20400,Too Funny!,Austin Powers: The Spy Who Shagged Me,3.0,3.0,F,Movies,9,111.0,37
+9839,60601,Better than expected,Pearl Harbor,4.0,3.0,F,Movies,53,141.75,34
+9867,53100,The movie that gagged me,Austin Powers: The Spy Who Shagged Me,2.0,4.0,F,Movies,9,111.0,36
+9867,121799,Dogma is no dog,Dogma,4.0,4.0,F,Movies,22,87.59,36
+9893,30201,Definitely a big screen movie,"Crouching Tiger, Hidden Dragon",5.0,4.0,M,Movies,18,117.0,1
+9920,60100,Good movie,Mission: Impossible II,4.0,3.0,F,Movies,42,144.28,39
+9933,60201,Over Hyped,Pearl Harbor,2.0,0.0,F,Movies,53,141.75,9
+2195,70600,One of my favorites!,American Beauty,4.0,0.0,F,Movies,5,59.0,35
+9949,20401,Not So Scary Movie,Scary Movie,3.0,4.0,F,Movies,60,53.0,30
+9950,61601,Pearl Harbor,Pearl Harbor,4.0,3.0,M,Movies,53,141.75,7
+9951,111900,The Perfect Bore,Perfect Storm,2.0,4.0,M,Movies,54,129.87,36
+9956,51600,AOHell,AOL (America Online),1.0,4.0,M,Online Stores & Services,0,145.84,20
+9976,101200,Bad Service,Olive Garden,1.0,4.0,M,Restaurants & Gourmet,49,32.0,7
+2199,32100,AOL,AOL (America Online),3.0,3.0,F,Online Stores & Services,0,145.84,31
+2210,20700,Missed Opportunity,Matrix,2.0,0.0,F,Movies,40,24.51,38
+10068,12200,Music Television?,MTV,2.0,4.0,F,Media,39,138.0,33
+2236,70601,A disappointment,Shrek,1.0,3.0,F,Movies,63,75.14,16
+10083,112600,You Get What You Pay For,Southwest Airlines,2.0,4.0,M,Hotels & Travel,69,108.69,31
+2147,40800,I Love It!,AOL (America Online),5.0,4.0,M,Online Stores & Services,0,145.84,5
+2246,120599,American Beauty,American Beauty,5.0,4.0,F,Movies,5,59.0,22
+2245,12500,It's About Time!,J. K. Rowling - Harry Potter and the Sorcerer's Stone,5.0,0.0,F,Books,36,96.0,27
+10136,82000,American Beauty,American Beauty,4.0,4.0,F,Movies,5,59.0,12
+10143,11600,where are the samples,StartSampling.Com,1.0,4.0,M,Online Stores & Services,72,49.0,1
+10145,10800,Southwest Airlines,Southwest Airlines,5.0,4.0,F,Hotels & Travel,69,108.69,1
+10169,60709,Quicken Loans,Quicken Loans,5.0,3.0,F,Personal Finance,57,36.0,39
+10173,50400,Yummy!,McDonald's,4.0,0.0,M,Restaurants & Gourmet,41,30.74,8
+10176,10700,Leaving Las Vegas,Las Vegas,4.0,0.0,M,Hotels & Travel,37,35.31,35
+10184,10900,Green Mile,Green Mile,5.0,3.0,F,Movies,33,140.0,30
+10235,100609,Home Refinance,Quicken Loans,4.0,3.0,M,Personal Finance,57,36.0,34
+2293,11300,leg room at last,Delta Air Lines,5.0,4.0,F,Hotels & Travel,20,116.0,20
+2298,12800,Better than the first!,Toy Story 2,5.0,3.0,F,Movies,80,143.01,10
+2309,81400,Great Movie,What Lies Beneath,3.0,0.0,F,Movies,85,145.0,16
+2152,32300,I want my old MTV,MTV,1.0,4.0,F,Media,39,138.0,10
+10273,110601,Staten Island Roadrunner,Road Runner (includes MediaOne),5.0,3.0,F,Online Stores & Services,58,135.59,7
+10292,122999,Don't waste your time!,Alta Vista (by 1stUp),1.0,0.0,F,Online Stores & Services,2,46.63,4
+10301,121399,Never Again,American Airlines,2.0,3.0,F,Hotels & Travel,4,61.0,1
+10301,122299,Too much hype,Blair Witch Project,2.0,0.0,F,Movies,12,44.0,1
+10301,122799,Great Movie,Any Given Sunday,4.0,0.0,F,Movies,7,135.0,1
+10312,32101,what on earth were they thinking?,The Original Furby,1.0,0.0,F,Kids & Family,78,22.38,17
+10315,100701,Beauty is in the eye of the beholder,American Beauty,5.0,4.0,F,Movies,5,59.0,19
+2345,113099,The Best,Matrix,5.0,3.0,F,Movies,40,24.51,23
+10343,11100,Not just for kids!,Diablo 2 - Bestseller Series for Windows,5.0,4.0,F,Games,21,52.51,3
+10367,12201,Angel of Mercy or Cold Blooded Murderer,Green Mile,5.0,0.0,M,Movies,33,140.0,39
+10371,122806,Better than expected,United Airlines,3.0,4.0,M,Hotels & Travel,83,119.87,32
+10373,70300,Mission Improbable,Mission: Impossible II,2.0,0.0,M,Movies,42,144.28,12
+2359,51400,AOL,AOL (America Online),5.0,4.0,M,Online Stores & Services,0,145.84,28
+2365,10800,Where has all the music gone?,MTV,3.0,4.0,M,Media,39,138.0,12
+2369,71200,A Pleasant Surprise,Toy Story 2,4.0,4.0,F,Movies,80,143.01,13
+2379,80800,AO Hell!,AOL (America Online),1.0,0.0,M,Online Stores & Services,0,145.84,39
+10432,91600,wonderful movie,Erin Brockovich,5.0,0.0,F,Movies,24,129.9,26
+2395,12000,The Simpsons,"Simpsons, The",5.0,0.0,F,Kids & Family,64,40.0,27
+10463,41400,The Spy Who Shagged Me,Austin Powers: The Spy Who Shagged Me,1.0,4.0,M,Movies,9,111.0,7
+10477,21700,Is this for real?,The Sims 2: Open for Business for Windows,5.0,4.0,M,Games,79,27.0,8
+10483,40209,A Pleasant Surprise,Quicken Loans,5.0,0.0,M,Personal Finance,57,36.0,23
+2422,12400,Money for nothing!,All Advantage,5.0,4.0,F,Online Stores & Services,1,23.08,35
+10512,90900,The Perfect Movie,Perfect Storm,4.0,0.0,M,Movies,54,129.87,11
+2425,51900,American Beauty,American Beauty,5.0,4.0,F,Movies,5,59.0,7
+10523,30403,I love this game!,Roller Coaster Tycoon For Windows,5.0,4.0,F,Games,59,90.83,9
+10531,80401,A Love/Hate Relationship,Final Fantasy VIII for PlayStation 1,2.0,0.0,F,Games,27,136.05,33
+10291,12000,What does the &quot;M&quot; stand for?,MTV,1.0,4.0,F,Media,39,138.0,1
+10291,20300,Boring,Treeloot.com,1.0,4.0,F,Online Stores & Services,81,94.83,1
+10544,12500,Good Value,Luvs Ultra Leakguards Stretch,4.0,0.0,F,Kids & Family,38,104.94,0
+10544,12500,MUST SEE,Sixth Sense,5.0,4.0,F,Movies,65,41.16,0
+2537,52900,Harry Potter,J. K. Rowling - Harry Potter and the Sorcerer's Stone,4.0,0.0,F,Books,36,96.0,27
+2541,31000,I Hate it!,AOL (America Online),1.0,0.0,F,Online Stores & Services,0,145.84,39
+10562,72105,The Headless Horseman Rides Again,Sleepy Hollow,4.0,4.0,F,Movies,66,62.0,30
+2543,121899,The best of the best,AOL (America Online),5.0,4.0,F,Online Stores & Services,0,145.84,2
+10571,121000,Not what I expected,Unbreakable,3.0,3.0,F,Movies,82,51.13,32
+10577,50209,Quicken Refinance,Quicken Loans,5.0,3.0,F,Personal Finance,57,36.0,20
+10595,42910,My experience with Quicken Loans,Quicken Loans,4.0,3.0,F,Personal Finance,57,36.0,18
+10600,111300,Ebay is addicting,eBay,5.0,3.0,M,Online Stores & Services,88,149.0,39
+10599,62809,Quicken Loans Review,Quicken Loans,5.0,3.0,F,Personal Finance,57,36.0,32
+10603,72100,Funny Movie,Scary Movie,4.0,3.0,M,Movies,60,53.0,26
+10611,20400,Always On Line,AOL (America Online),4.0,3.0,M,Online Stores & Services,0,145.84,3
+10617,40300,Don't Waste Your Money,Star Wars Episode I: The Phantom Menace,2.0,4.0,M,Movies,71,23.0,37
+2561,81400,Net Zero,NetZero,5.0,0.0,M,Online Stores & Services,46,53.0,9
+10619,10300,Toy Story 2,Toy Story 2,5.0,0.0,M,Movies,80,143.01,15
+10619,10800,Galaxy Quest,Galaxy Quest,4.0,3.0,M,Movies,29,67.0,15
+10619,10800,The Green Mile,Green Mile,4.0,4.0,M,Movies,33,140.0,15
+10619,11000,American Pie,American Pie,3.0,0.0,M,Movies,6,117.89,15
+10619,11300,Being John Malkovich,Being John Malkovich,4.0,4.0,M,Movies,11,52.0,15
+10619,11300,Fight Club,Fight Club,1.0,4.0,M,Movies,26,97.53,15
+10619,11700,Sleepy Hollow,Sleepy Hollow,4.0,0.0,M,Movies,66,62.0,15
+10619,11800,AOL,AOL (America Online),1.0,4.0,M,Online Stores & Services,0,145.84,15
+10619,12600,American Beauty,American Beauty,3.0,4.0,M,Movies,5,59.0,15
+10619,30700,The Sixth Sense,Sixth Sense,4.0,4.0,M,Movies,65,41.16,15
+10619,31700,Erin Brockovich,Erin Brockovich,2.0,4.0,M,Movies,24,129.9,15
+10635,70900,Funny Movie,Scary Movie,3.0,0.0,M,Movies,60,53.0,10
+10635,121899,Heads Will Roll,Sleepy Hollow,4.0,3.0,M,Movies,66,62.0,10
+10635,122299,Any Given Sunday,Any Given Sunday,4.0,4.0,M,Movies,7,135.0,10
+10638,13100,Where's The Samples?,StartSampling.Com,3.0,4.0,M,Online Stores & Services,72,49.0,16
+10647,61500,Impossible Mission,Mission: Impossible II,5.0,0.0,F,Movies,42,144.28,20
+2574,12000,Don't waste your time!,StartSampling.Com,1.0,4.0,M,Online Stores & Services,72,49.0,38
+10652,51100,Instant classic,"Simpsons, The",5.0,3.0,F,Kids & Family,64,40.0,26
+10655,22700,Best Movie of 1999,Sixth Sense,5.0,4.0,F,Movies,65,41.16,29
+10660,121999,Best of the Best,The Legend Of Zelda Ocarina Of Time for Nintendo 64,5.0,3.0,F,Games,77,59.0,3
+10711,102799,Great for Beginners,AOL (America Online),3.0,4.0,F,Online Stores & Services,0,145.84,37
+10715,112502,Watch Out!,PayPal,1.0,3.0,F,Personal Finance,52,38.0,9
+10716,112400,The Grinch,How the Grinch Stole Christmas,2.0,3.0,F,Movies,34,65.0,4
+10710,10800,One of the best!,BlueLight.com,4.0,4.0,M,Online Stores & Services,15,52.0,17
+10733,51000,Great movie!,Matrix,4.0,4.0,F,Movies,40,24.51,21
+2610,21100,The Simpsons,"Simpsons, The",5.0,0.0,M,Kids & Family,64,40.0,33
+2597,42400,Great Movie,Matrix,5.0,3.0,F,Movies,40,24.51,18
+10763,12800,What Advantage?,All Advantage,3.0,4.0,M,Online Stores & Services,1,23.08,5
+10767,10501,Best Game Ever,Final Fantasy VIII for PlayStation 1,5.0,0.0,M,Games,27,136.05,33
+10770,81000,A MUST SEE MOVIE,Green Mile,5.0,0.0,M,Movies,33,140.0,23
+10776,30400,WOW!,Scream 3,5.0,0.0,M,Movies,61,32.0,30
+10794,61201,I was surprised,Shrek,5.0,3.0,M,Movies,63,75.14,3
+10798,62209,Quicken Refinance,Quicken Loans,4.0,3.0,M,Personal Finance,57,36.0,21
+10800,50500,Family Favorite,Applebee's,5.0,3.0,M,Restaurants & Gourmet,8,88.0,30
+10803,102599,The best,Earthlink,5.0,4.0,F,Online Stores & Services,23,68.0,20
+2445,22000,Great movie!,Austin Powers: The Spy Who Shagged Me,5.0,3.0,M,Movies,9,111.0,5
+2445,61500,Great movie!,Fight Club,5.0,3.0,M,Movies,26,97.53,5
